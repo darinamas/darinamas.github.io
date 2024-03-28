@@ -2,7 +2,7 @@
 
 ## Information Collection and Use
 
-Our mobile app does not collect any personal information from the users. We may, however, collect non-personal information such as device information, operating system, and usage data to improve the user experience.
+Our mobile app does not collect any personal information from the users. 
 
 ## Data Security
 
