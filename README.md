@@ -1,4 +1,4 @@
-# Privacy Policy
+# Privacy Policy Tech InT
 
 ## Information Collection and Use
 
